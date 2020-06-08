@@ -1,0 +1,6 @@
+Here is an example of what files.txt could look like:
+
+C:/Users/sally/Pictures/20200606_164278.jpg
+C:/Users/sally/Pictures/20200516_159815.jpg
+C:/Users/sally/Pictures/20190824_152398.jpg
+C:/Users/sally/Pictures/20190208_137398.jpg
