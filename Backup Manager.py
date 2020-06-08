@@ -149,7 +149,8 @@ Select an option:
 							copyfile(c, sys.path[0] + "\\backups\\backup " + name + "\\" + list1[0])
 					input("Done!\nPress -ENTER- to go back to the menu.\n")
 			except:
-				input("You dont have any backups to overwrite.\nPress -ENTER- to go back to the menu\n")
+				clr()
+				input("You dont have any backups to update.\nPress -ENTER- to go back to the menu\n")
 	elif choice == 2:
 		try:
 			oops = listofbackups[0]
